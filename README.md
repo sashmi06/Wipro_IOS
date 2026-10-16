@@ -3,3 +3,6 @@ Task 1: Student profile card
 
 Task 2: Temperature converter
 <img width="300" height="236" alt="image" src="https://github.com/user-attachments/assets/e660f2ce-3477-4a60-81a4-5ce808eb78c1" />
+
+Task 3: Fix the compile errors
+<img width="365" height="192" alt="image" src="https://github.com/user-attachments/assets/bd23e50e-435b-4af6-a8e8-46a936730f21" />
