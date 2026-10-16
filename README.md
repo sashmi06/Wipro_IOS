@@ -12,3 +12,6 @@ Task 4: Restaurant bill calculator
 
 Task 5: Leap year and range checks
 <img width="486" height="203" alt="image" src="https://github.com/user-attachments/assets/4a5f9cc4-4ab4-4105-895b-3e5e0c14ce68" />
+
+Task 6: Predict Task
+<img width="267" height="247" alt="image" src="https://github.com/user-attachments/assets/6eca2509-baed-4fc8-9aaf-8b1fbb1e7d2e" />
