@@ -21,3 +21,6 @@ Task 7: Course Registration
 
 Task 8: Word Frequency Counter
 <img width="563" height="383" alt="image" src="https://github.com/user-attachments/assets/ad790df6-43f6-4484-977c-f554dbba8a84" />
+
+Task 9: Set algebra and de-duplication
+<img width="577" height="177" alt="image" src="https://github.com/user-attachments/assets/d8630f73-b6a1-43c0-a58e-f5443497db98" />
