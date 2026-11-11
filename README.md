@@ -18,3 +18,6 @@ Task 6: Predict Task
 
 Task 7: Course Registration
 <img width="510" height="317" alt="image" src="https://github.com/user-attachments/assets/64046106-d3aa-434a-894b-2224314c3584" />
+
+Task 8: Word Frequency Counter
+<img width="563" height="383" alt="image" src="https://github.com/user-attachments/assets/ad790df6-43f6-4484-977c-f554dbba8a84" />
