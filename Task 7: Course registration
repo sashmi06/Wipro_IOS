@@ -1,0 +1,38 @@
+import Foundation
+@main
+struct CourseRegistration {
+
+    static func main() {
+        var subjects = ["Swift", "UIKit", "SwiftUI"]
+        subjects.append("Networking")
+        subjects.insert("Testing", at: 1)
+
+        if let index = subjects.firstIndex(of: "UIKit") {
+            subjects.remove(at: index)
+        }
+
+        print(subjects.sorted())
+
+        var registered: Set<String> = ["Asha", "Ravi"]
+        registered.insert("Asha")
+        print(registered.count)
+        print(registered)
+
+        var marks: [String: Int] = ["Asha": 88, "Ravi": 72, "Meena": 95]
+        marks["Kiran"] = 64
+        marks["Ravi"] = 78
+
+        let missing = marks["Zoya"]
+        print(missing as Any)
+        print(marks["Zoya"] ?? 0)
+
+        for (name, mark) in marks.sorted(by: { $0.key < $1.key }) {
+            print("\(name): \(mark)")
+        }
+
+        if let highest = marks.max(by: { $0.value < $1.value }) {
+            print("Highest Mark: \(highest.value)")
+            print("Student Name: \(highest.key)")
+        }
+    }
+}
