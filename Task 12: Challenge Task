@@ -1,0 +1,37 @@
+import Foundation
+
+struct Counter {
+    var value = 0
+
+    mutating func increment() {
+        value += 1
+    }
+}
+
+class Box {
+    var value = 0
+
+    func increment() {
+        value += 1
+    }
+}
+
+@main
+struct CounterExample {
+
+    static func main() {
+
+        var c = Counter()
+        c.increment()
+        print("Struct Counter:", c.value)
+
+        let b = Box()
+        b.increment()
+        print("Class Box:", b.value)
+
+        let b1 = Box()
+        let b2 = b1
+
+        print("Same Object:", b1 === b2)
+    }
+}
