@@ -31,3 +31,5 @@ Task 10: Library item model
 Task 11: Shapes and areas
 <img width="363" height="255" alt="image" src="https://github.com/user-attachments/assets/19ba4160-cedb-416f-9d7a-a97908b93047" />
 
+Task 12: Challenge Task
+<img width="235" height="100" alt="image" src="https://github.com/user-attachments/assets/db27ee1d-b540-4663-b30c-6f173478671f" />
