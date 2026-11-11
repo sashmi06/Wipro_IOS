@@ -15,3 +15,6 @@ Task 5: Leap year and range checks
 
 Task 6: Predict Task
 <img width="267" height="247" alt="image" src="https://github.com/user-attachments/assets/6eca2509-baed-4fc8-9aaf-8b1fbb1e7d2e" />
+
+Task 7: Course Registration
+<img width="510" height="317" alt="image" src="https://github.com/user-attachments/assets/64046106-d3aa-434a-894b-2224314c3584" />
